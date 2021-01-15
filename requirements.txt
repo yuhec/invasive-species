@@ -1,0 +1,8 @@
+pip
+kaggle
+py7zr
+pandas
+numpy
+opencv-python-headless
+tensorflow
+keras
